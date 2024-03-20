@@ -7,8 +7,9 @@ Sin mas por el momento te invito a interactuar con el asi como a mejorarlo si en
 * CSS
 * JS
 
-Autor ✒️
-* **Orl** - (https://github.com/Zpyr0l4r)
+Autor y link directo ✒️
+* **Orl** -
+* https://zpyr0l4r.github.io/Encriptador-Web/ 
 
 Redes sociales 
 
