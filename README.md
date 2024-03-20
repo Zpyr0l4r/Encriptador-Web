@@ -9,3 +9,6 @@ Sin mas por el momento te invito a interactuar con el asi como a mejorarlo si en
 
 Autor ✒️
 * **Orl** - (https://github.com/Zpyr0l4r)
+
+Redes sociales 
+Ig:@Spyrolar 
